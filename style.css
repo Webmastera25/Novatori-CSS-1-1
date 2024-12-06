@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    max-width: 1920px;
+}
+
+main {
+    margin: 32px;
+}
+
+header {
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#chanceDiv {
+    display: inline-block;
+    width: 565px;
+    padding: 24px 40px;
+    background-color: #FFE8E8;;
+}
+
+#chanceText{
+    display: inline;
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38.4px;
+    color: #FF0000;
+}
+
+#discountDiv{
+    margin-top: 32px;
+    width: 1023px;
+    border-top: 4px solid #00C76E;
+    border-right: 6px solid #0055FF;
+    border-bottom: 4px solid #7F56D9;
+    border-left: 6px solid #C01574;
+    padding: 24px 40px;
+}
+
+#discountText{
+    margin: 0 auto;
+    color: #85647B;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#seasonDiv{
+    margin-top: 44px;
+    width: 1023px;
+    padding: 24px 40px;
+    text-align: center;
+    background-color: #FFE8E8;
+}
+
+#seasonText{
+    margin: 0 auto;
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+span {
+    font-family: Lato;
+    text-decoration: solid;
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 38.4px;
+    align-items: center;
+    color: #FF4405;
+}
+
+#saves {
+    width: 1069px;
+    height: 86px;
+    margin-top: 24px;
+    top: 612px;
+    left: 32px;
+    padding-top: 24px;
+    padding-right: 40px;
+    padding-bottom: 24px;
+    padding-left: 40px;
+    gap: 10px;
+    border: 2px solid #3538CD;
+ }
+
+#savesText{
+    margin: 0 auto;
+    width: 989px;
+    height: 38px;
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38.4px;
+    text-align: right;
+    color: #0064CE;
+}
+
+img {
+    width: 556px;
+    height: 347px;
+    margin-top: 76px;
+    top: 774px;
+    left: 32px;
+}
